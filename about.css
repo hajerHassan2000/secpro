@@ -1,0 +1,87 @@
+body{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0px;
+     top: 0px;
+    }
+body  #k{
+   
+  
+   position: center center;
+padding-left: 0px;
+padding-right: 0px;
+padding-bottom: 600px;
+background-image: url('dog-5357794_1920.jpg');
+background-repeat : no-repeat;
+background-size:cover;
+}
+.navbar{
+
+
+border: none;
+
+}
+.nav{font-family: 'Lobster', cursive;
+  font-family: 'Noto Sans JP', sans-serif;}
+#l{
+    border:2px solid  rgb(252, 252, 252);
+
+    
+}
+.fixed-nav-bar .nav li a {
+
+
+
+    color: rgb(252, 252, 252);
+}
+
+.fixed-nav-bar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 9999;
+    width: 100%;
+    height: 50px;
+ 
+  }
+
+  .bottom-left {
+      color:#fff;
+    position: absolute;
+    padding-left: 70px;
+    bottom: 0px;
+    left: 16px;
+  }
+  .centered {
+    position: absolute;
+    top: 92%;
+    left: 50%;
+    
+  }
+#j{
+    border:5px solid #000000;
+}
+h1{font-family: 'Indie Flower', cursive;
+}
+hr.style-seven {
+  overflow: visible; /* For IE */
+  height: 30px;
+  border-style: solid;
+  border-color: black;
+  border-width: 1px 0 0 0;
+  border-radius: 20px;
+}
+hr.style-seven:before { /* Not really supposed to work, but does */
+  display: block;
+  content: "";
+  height: 30px;
+  margin-top: -31px;
+  border-style: solid;
+  border-color: black;
+  border-width: 0 0 1px 0;
+  border-radius: 20px;
+}
+.btn{
+  color: #fff;
+}
